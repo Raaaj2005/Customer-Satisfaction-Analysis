@@ -1,4 +1,4 @@
-# Customer Satisfaction Analysis: Women's Clothing E-Commerce
+# Customer Satisfaction Analysis
 
 ## 📌 Overview
 This project is an introductory Natural Language Processing (NLP) analysis focused on evaluating customer satisfaction for an online women's clothing shop. By processing and analyzing raw text reviews, this project extracts actionable insights regarding customer sentiment across various product lines.
@@ -47,4 +47,5 @@ To run this notebook, you will need prior working knowledge of Python and pandas
 
 ## 👤 Author
 Name: Raj Fatehveer Singh Brar<br>
-Email ID: rbrar_be23@thapar.edu
+Email ID: rbrar_be23@thapar.edu<br>
+University: Thapar Institute of Engineering and Technology
